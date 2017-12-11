@@ -1,0 +1,12 @@
+The elecH2X project is a python learning exercise,learn how to use these tools:
+1.mysql
+2.selenium
+3.BeautifulSoup
+4.email
+5.xlrd
+6.xlwt
+
+The project is made up of three parts:
+1.getInfo:get elec info from the school's web and store into mysql.
+2.sendMail:get elec info from the school's web and send to the users with email.
+3.storeUsers:read user info from a .xlsx file and store into mysql.
