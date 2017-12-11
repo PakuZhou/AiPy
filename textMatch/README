@@ -1,0 +1,11 @@
+textMatch.py:源代代码。
+
+title.csv:标题集。由于厦大新闻网部分数据无法爬取，所以这边用的数据时第一作业时爬取的数据，从MySQL导出为csv文件。
+
+sim.txt:每个查询的相似度。
+
+result.txt:查询结果保存成文件。
+
+stopwords.txt:停用词
+
+README.html:代码说明文件
