@@ -11,4 +11,3 @@ The project is made up of three parts:
 2.sendMail:get elec info from the school's web and send to the users with email.
 3.storeUsers:read user info from a .xlsx file and store into mysql.
 
-## haha
